@@ -1,0 +1,5 @@
+Pyqt5
+docx
+rabbit
+pytest-shutil
+zipfile36
